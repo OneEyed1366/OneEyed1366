@@ -10,8 +10,12 @@ class UiRouter extends StatelessWidget {
   Widget build(BuildContext context) {
     if (Platform.isAndroid) {
       return const UiMaterial();
+    } else if (Platform.isIOS) {
+      return const UiCupertino();
+    } else if (Platform.isMacOS) {
+      return const UiMacOs();
     }
 
-    return const UiCupertino();
+    return const UiNeuromorphic();
   }
 }

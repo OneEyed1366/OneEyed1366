@@ -1,4 +1,6 @@
 import 'package:flutter/widgets.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:pet/cubits/_index.dart';
 import 'package:pet/ui/router/_index.dart';
 
 class Root extends StatelessWidget {
@@ -6,9 +8,14 @@ class Root extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Directionality(
-        textDirection: TextDirection.ltr,
-        child: UiRouter(),
+    return MultiBlocProvider(
+      providers: [
+        BlocProvider<CounterCubit>(create: (BuildContext context) => CounterCubit()),
+      ],
+      child: const Directionality(
+          textDirection: TextDirection.ltr,
+          child: UiRouter(),
+      ),
     );
   }
 }

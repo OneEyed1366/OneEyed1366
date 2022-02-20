@@ -33,6 +33,8 @@ dependencies:
   cupertino_icons: ^1.0.2
 #  State manager
   get: ^4.6.1
+  flutter_bloc: ^8.0.1
+  macos_ui: ^0.10.0+1
 
 dev_dependencies:
   flutter_test:
