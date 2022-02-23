@@ -5,19 +5,30 @@ import 'package:pet/ui/layouts/_index.dart';
 
 class UiRouter extends StatelessWidget {
   final Widget child;
+  final Iterable<LocalizationsDelegate<dynamic>> localizationsDelegate;
+  final Iterable<Locale> locales;
 
-  const UiRouter({ Key? key, required this.child }): super(key: key);
+  const UiRouter({
+    Key? key,
+    required this.child,
+    required this.localizationsDelegate,
+    required this.locales,
+  }): super(key: key);
 
   @override
   Widget build(BuildContext context) {
     if (Platform.isMacOS) {
       return UiMacOs(
-        children: child,
+        locales: locales,
+        localizationsDelegate: localizationsDelegate,
+        child: child,
       );
     }
 
     return FluentUi(
-      children: child,
+      locales: locales,
+      localizationsDelegate: localizationsDelegate,
+      child: child,
     );
   }
 }

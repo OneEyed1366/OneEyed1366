@@ -1,7 +1,7 @@
-import 'dart:io' show Platform;
-
 import 'package:flutter/widgets.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:pet/constants/_index.dart';
 import 'package:pet/cubits/_index.dart';
 import 'package:pet/ui/router/_index.dart';
 
@@ -10,17 +10,26 @@ class Root extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    const Iterable<Locale> locales = AppLocalizations.supportedLocales;
+    final Iterable<LocalizationsDelegate<dynamic>> localizationDelegates = [
+      AppLocalizations.delegate,
+      GlobalMaterialLocalizations.delegate,
+      GlobalWidgetsLocalizations.delegate,
+      GlobalCupertinoLocalizations.delegate,
+    ];
+
     return MultiBlocProvider(
       providers: [
         BlocProvider<CounterCubit>(create: (BuildContext context) => CounterCubit()),
       ],
-      child: const Directionality(
+      child: Directionality(
         textDirection: TextDirection.ltr,
         child: UiRouter(
-          child: LayoutRouter(
+          locales: locales,
+          localizationsDelegate: localizationDelegates,
+          child: const LayoutRouter(
             child: ResponsiveRouter(
-              child: Text('its here!'),
-              text: 'Hello, Flutter World!',
+              child: Text('its here!')
             ),
           ),
         ),

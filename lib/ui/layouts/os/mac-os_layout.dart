@@ -3,15 +3,24 @@ import 'package:macos_ui/macos_ui.dart';
 import 'package:pet/ui/router/_index.dart';
 
 class UiMacOs extends StatelessWidget {
-  final Widget children;
+  final Widget child;
+  final Iterable<LocalizationsDelegate<dynamic>> localizationsDelegate;
+  final Iterable<Locale> locales;
 
-  const UiMacOs({ Key? key, required this.children }): super(key: key);
+  const UiMacOs({
+    Key? key,
+    required this.child,
+    required this.localizationsDelegate,
+    required this.locales,
+  }): super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return MacosApp(
       title: 'MacOs Title',
-      home: children,
+      localizationsDelegates: localizationsDelegate,
+      supportedLocales: locales,
+      home: child,
     );
   }
 }

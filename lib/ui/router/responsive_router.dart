@@ -18,7 +18,7 @@ class ResponsiveRouter extends StatefulWidget {
 class _ResponsiveRouterState extends State<ResponsiveRouter> {
   @override
   Widget build(BuildContext context) {
-    final String text = widget.text ?? 'noText';
+    final String text = widget.text ?? AppLocalizations.of(context)?.helloWorld ?? 'hello';
     final num currentWidth = MediaQuery.of(context).size.width;
 
     if (currentWidth >= mobileBig) {
