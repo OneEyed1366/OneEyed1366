@@ -1,10 +1,12 @@
 import 'package:flutter/widgets.dart';
 
 class PortraitLayout extends StatelessWidget {
-  const PortraitLayout({ Key? key }): super(key: key);
+  final Widget children;
+
+  const PortraitLayout({ Key? key, required this.children }): super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return const Text('portrait layout');
+    return children;
   }
 }

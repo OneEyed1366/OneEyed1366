@@ -29,12 +29,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  fluent_ui:
+    git: https://github.com/bdlukaa/fluent_ui.git
   flutter_neumorphic: ^3.0.3
+  macos_ui: ^0.10.0+1
   cupertino_icons: ^1.0.2
 #  State manager
-  get: ^4.6.1
   flutter_bloc: ^8.0.1
-  macos_ui: ^0.10.0+1
 
 dev_dependencies:
   flutter_test:
