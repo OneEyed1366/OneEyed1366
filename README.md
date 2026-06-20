@@ -16,12 +16,12 @@
 
 ### 🧩 What I'm into
 
-- 🧰 **Full-stack team's tech expert** — ~9 years in, Python roots grown into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**; today I'm the team's go-to — mentoring a junior and leveling up colleagues, mostly through pairing and code review rather than speeches.
+- 🧰 **Full-stack lead &amp; team's tech expert** — ~9 years in, Python roots grown into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**; today I'm the team's go-to — mentoring a junior and leveling up colleagues, mostly through pairing and code review rather than speeches.
 - 🦕 **React since 0.16.8** — class & functional components, back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
 - 🧠 **TypeScript maximalist** — strict typings done for love: generics, union & conditional types, inference gymnastics — and no \`as\` escape hatches.
 - 🔧 **Rewrites don't scare me** — earned my mid-level stripes migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in ~6 weeks — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
 - 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse, via Prisma / TypeORM / Mongoose. These days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
-- 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden. At work I shipped an **Ink TUI** and a matching **VS Code extension** that render SQL from GoTemplate templates.
+- 🐺 **I tool my way out of friction** — tired of digging through teammates' backend logs to find the generated SQL, I shipped an **Ink TUI** and a matching **VS Code extension** to render it myself — pure initiative. (My teamlead's verdict: I'd sooner build a TUI than ask a coworker.) Same itch-scratching instinct is where [\`wolf-tui\`](https://github.com/OneEyed1366/wolf-tui) grew from.
 - 🌀 **Flow-state creature** — happiest in long, deep-focus sessions (more than my wife would like), chasing strange, obscure rabbit holes. Code is the language I'm most fluent in; spoken words come harder — I get by in English and can still half-understand Italian (speaking it is another story).
 - 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
 - 🚐 **Off-grid family man** — three dogs and a fellow-introvert wife, living autonomously in a solar-powered camper. Building a new chapter as an immigrant from Russia; the dogs keep me honest about daylight and long walks.
