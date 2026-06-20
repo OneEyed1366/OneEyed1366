@@ -18,7 +18,7 @@
 
 - 🧰 **Team's tech expert** — ~9 years in, Python roots grown into JS/TS full-stack. As a mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**; today I'm the team's go-to - mentoring a junior and leveling up colleagues, mostly through pairing and code review rather than speeches.
 - 🦕 **React since 0.16.8** — class & functional components, back when IE8 support, `React.createClass` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration.
-- 🧠 **TypeScript maximalist** — strict typings done for love: generics, union & conditional types, inference gymnastics — and no `as` escape hatches.
+- 🧠 **TypeScript maximalist** — strict typings done for love: generics, union & conditional types, inference gymnastics — and as-less-as-possible `as` escape hatches.
 - 🔧 **Legacy don't scare me** — earned my mid-level stripes migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in ~6 weeks — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
 - 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse, via Prisma / TypeORM / Mongoose. These days, a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
 - 🐺 **I tool my way out of friction** — tired of digging through teammates' backend logs to find the generated SQL, I shipped an **Ink TUI** and a matching **VS Code extension** to render it myself — pure initiative. (My teamlead's verdict: I'd sooner build a TUI than ask a coworker.) The same itch-scratching instinct is what [`wolf-tui`](https://github.com/OneEyed1366/wolf-tui) grew out of.
