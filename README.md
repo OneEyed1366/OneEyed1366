@@ -79,7 +79,7 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
 ### 📊 GitHub in numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OneEyed1366&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OneEyed1366&show_icons=true&hide_border=true&theme=tokyonight" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneEyed1366&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top langs"/>
 </p>
 
