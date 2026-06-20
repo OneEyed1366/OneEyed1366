@@ -17,7 +17,8 @@
 ### 🧩 What I'm into
 
 - 🧰 **Full-stack, ~9 years in** — started as a Python dev, grew into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**.
-- 🦕 **React since 0.16.8** — back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
+- 🦕 **React since 0.16.8** — class & functional components, back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
+- 🧠 **TypeScript maximalist** — strict typings done for love: generics, union & conditional types, inference gymnastics — and no \`as\` escape hatches.
 - 🔧 **Rewrites don't scare me** — leveled up to mid migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in 1.2 months — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
 - 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse; these days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
 - 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden.
@@ -64,7 +65,42 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://img.shields.io/badge/Dart%20(hobby)-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </p>
 
-**Backend & APIs**
+**Frontend — frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue%203-42b883?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue%202-34495E?style=flat-square&logo=vuedotjs&logoColor=42b883"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
+</p>
+
+<sub><em>React: class &amp; functional components, RN/Expo with native Objective-C &amp; Java touches. Vue: 2 → 3 (Options → Composition) migrations, SFC &amp; TSX.</em></sub>
+
+**Frontend — state &amp; data**
+
+<p>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
+</p>
+
+**Frontend — styling &amp; UI**
+
+<p>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Emotion-C43BAD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VueUse-41B883?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+</p>
+
+**Backend &amp; APIs**
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -85,26 +121,22 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://img.shields.io/badge/SQL%20%2B%20GoTemplate-336791?style=flat-square&logo=go&logoColor=white"/>
 </p>
 
-**Frontend**
+**Testing &amp; quality**
 
 <p>
-  <img src="https://img.shields.io/badge/Vue%203-42b883?style=flat-square&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black"/>
 </p>
 
-**Editor & tooling**
+**Editor**
 
 <p>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest%2FJest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black"/>
 </p>
 
 ---
