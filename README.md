@@ -51,6 +51,7 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
 
 | Project | What it is |
 |---|---|
+| [`symbiote`](https://github.com/OneEyed1366/symbiote) | Framework-agnostic **React Native renderer** — drive Fabric's native iOS/Android from Vue, Svelte, Solid, Angular, or React. wolf-tui's idea, aimed at mobile. *(pre-alpha)* |
 | [`tmux-projects`](https://github.com/OneEyed1366/tmux-projects) | tmux + fzf + Neovim project switcher — shared pin file & session-naming contract between shell and a Telescope picker. |
 | [Starter templates](https://github.com/OneEyed1366?tab=repositories&q=template) | Battle-tested Next/Nuxt/Vite scaffolds — TS, Pinia/Redux Toolkit, i18next, Jest, Cypress. |
 
