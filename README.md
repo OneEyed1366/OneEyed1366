@@ -20,8 +20,8 @@
 - 🦕 **React since 0.16.8** — class & functional components, back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
 - 🧠 **TypeScript maximalist** — strict typings done for love: generics, union & conditional types, inference gymnastics — and no \`as\` escape hatches.
 - 🔧 **Rewrites don't scare me** — leveled up to mid migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in 1.2 months — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
-- 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse; these days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
-- 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden.
+- 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse, via Prisma / TypeORM / Mongoose. These days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
+- 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden. At work I shipped an **Ink TUI** and a matching **VS Code extension** that render SQL from GoTemplate templates.
 - 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
 - 🐶 **Family man** — three dogs, building a new chapter as an immigrant from Russia. Animals, coffee, and shipping.
 
@@ -106,6 +106,7 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
@@ -118,6 +119,9 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20%2B%20GoTemplate-336791?style=flat-square&logo=go&logoColor=white"/>
 </p>
 
@@ -132,9 +136,11 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black"/>
 </p>
 
-**Editor**
+**Dev tooling &amp; DX**
 
 <p>
+  <img src="https://img.shields.io/badge/Ink%20(React%20TUI)-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/VS%20Code%20Extensions-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
 </p>
