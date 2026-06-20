@@ -21,7 +21,7 @@
 - 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse; these days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
 - 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden.
 - 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
-- 🐾 Animals, coffee, and shipping.
+- 🐶 **Family man** — three dogs, building a new chapter as an immigrant from Russia. Animals, coffee, and shipping.
 
 ---
 
@@ -122,4 +122,4 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://github-profile-trophy.vercel.app/?username=OneEyed1366&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 </p>
 
-<p align="center"><sub>🐾 still here, still shipping, still in Neovim, still out of coffee.</sub></p>
+<p align="center"><sub>🐾 still here, still shipping, still in Neovim, still out of coffee — now with three dogs underfoot.</sub></p>
