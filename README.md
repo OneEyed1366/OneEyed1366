@@ -18,6 +18,7 @@
 
 - 🧰 **Full-stack, backend-leaning** — five years primarily backend (Nest.js · Django · FastAPI · Express, GraphQL & REST), now shipping frontend.
 - 🦕 **React since 0.16.8** — back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
+- 🔧 **Rewrites don't scare me** — leveled up to mid solo-migrating a legacy React app (self-written Gulp + webpack 2 SSR → Next.js + webpack 5) in 2.5 months. I'm stubborn; legacy loses.
 - 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse; these days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
 - 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden.
 - 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
