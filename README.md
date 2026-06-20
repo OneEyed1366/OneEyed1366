@@ -22,9 +22,9 @@
 - 🔧 **Rewrites don't scare me** — leveled up to mid migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in 1.2 months — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
 - 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse, via Prisma / TypeORM / Mongoose. These days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
 - 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden. At work I shipped an **Ink TUI** and a matching **VS Code extension** that render SQL from GoTemplate templates.
-- 🌀 **Flow-state creature** — happiest 12–15 hours deep in code (more than my wife would like), chasing strange, obscure rabbit holes. An introvert who'd rather talk to the compiler than the room — once spoke A-level Italian and promptly forgot all of it.
+- 🌀 **Flow-state creature** — happiest 12–15 hours deep in code (more than my wife would like), chasing strange, obscure rabbit holes. I'd rather talk to the compiler than to the room — once spoke A-level Italian and promptly forgot all of it.
 - 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
-- 🐶 **Family man** — three dogs (my built-in reminder to eat, sleep, and touch grass), building a new chapter as an immigrant from Russia. Animals, coffee, and shipping.
+- 🚐 **Off-grid family man** — three dogs and a fellow-introvert wife, living autonomously in a solar-powered camper (Luxon 560). Building a new chapter as an immigrant from Russia; the dogs make sure I still eat, sleep, and touch grass.
 
 ---
 
@@ -163,4 +163,4 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://github-profile-trophy.vercel.app/?username=OneEyed1366&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 </p>
 
-<p align="center"><sub>🐾 still here, still shipping, still in Neovim, still out of coffee — now with three dogs underfoot.</sub></p>
+<p align="center"><sub>🐾 still shipping from a solar-powered camper — still in Neovim, still out of coffee, three dogs underfoot.</sub></p>
