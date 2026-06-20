@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Vue%203-%2342b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
 </p>
 
 ---
@@ -17,6 +18,7 @@
 
 - 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden.
 - ⚙️ **The native edge of the web** — Rust bindings, Tauri desktop, terminal UIs, dev-environment tooling.
+- 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
 - 🧪 **Typed-to-the-bone codebases** — no \`as\`, strong contracts, tests that mean something.
 - 🐾 Animals, coffee, and shipping.
 
@@ -89,4 +91,4 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://github-profile-trophy.vercel.app/?username=OneEyed1366&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
 </p>
 
-<p align="center"><sub>🐾 still here, still shipping, still out of coffee.</sub></p>
+<p align="center"><sub>🐾 still here, still shipping, still in Neovim, still out of coffee.</sub></p>
