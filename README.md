@@ -1,25 +1,26 @@
 <h1 align="center">Hey, I'm Andrey 👋</h1>
 
 <p align="center">
-  <em>Animal-loving <strong>TS / Python / Flutter</strong> coder — running on unlimited energy and far too much coffee ☕</em>
+  <em><strong>Full-Stack Senior Software Engineer</strong> — five years backend-heavy (TS / Python), now shipping frontend.<br/>Animal lover running on unlimited energy and far too much coffee ☕</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/OneEyed1366?tab=repositories"><img src="https://img.shields.io/badge/Frontend-Engineer-6E56CF?style=for-the-badge" alt="Frontend Engineer"/></a>
-  <img src="https://img.shields.io/badge/Vue%203-%2342b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Senior-6E56CF?style=for-the-badge" alt="Full-Stack Senior"/>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
 </p>
 
 ---
 
 ### 🧩 What I'm into
 
+- 🧰 **Full-stack, backend-leaning** — five years primarily backend (Nest.js · Django · FastAPI · Express, GraphQL & REST), now shipping frontend.
+- 🦕 **React since 0.16.8** — back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
+- 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse; these days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
 - 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden.
-- ⚙️ **The native edge of the web** — Rust bindings, Tauri desktop, terminal UIs, dev-environment tooling.
 - 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
-- 🧪 **Typed-to-the-bone codebases** — no \`as\`, strong contracts, tests that mean something.
 - 🐾 Animals, coffee, and shipping.
 
 ---
@@ -51,27 +52,57 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
 
 ### 🛠️ Tech I reach for
 
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <br/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart%20(hobby)-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST-005571?style=flat-square"/>
+</p>
+
+**Data**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL%20%2B%20GoTemplate-336791?style=flat-square&logo=go&logoColor=white"/>
+</p>
+
+**Frontend**
+
+<p>
   <img src="https://img.shields.io/badge/Vue%203-42b883?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
-  <br/>
   <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black"/>
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vitest%2FJest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black"/>
-  <br/>
+</p>
+
+**Editor & tooling**
+
+<p>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vitest%2FJest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black"/>
 </p>
 
 ---
