@@ -43,7 +43,6 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
 | Project | What it is |
 |---|---|
 | [\`tmux-projects\`](https://github.com/OneEyed1366/tmux-projects) | tmux + fzf + Neovim project switcher — shared pin file & session-naming contract between shell and a Telescope picker. |
-| [\`skiffy-messenger\`](https://github.com/OneEyed1366/skiffy-messenger) | Migrating a Mattermost desktop client off Electron → **Expo + Tauri + React 19 + Rust**. |
 | [Starter templates](https://github.com/OneEyed1366?tab=repositories&q=template) | Battle-tested Next/Nuxt/Vite scaffolds — TS, Pinia/Redux Toolkit, i18next, Jest, Cypress. |
 
 ---
