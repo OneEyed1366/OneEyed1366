@@ -16,7 +16,7 @@
 
 ### 🧩 What I'm into
 
-- 🧰 **Full-stack team's tech expert** — ~9 years in, Python roots grown into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**; today I'm the team's go-to — mentoring a junior and leveling up colleagues, mostly through pairing and code review rather than speeches.
+- 🧰 **Full-stack lead &amp; team's tech expert** — ~9 years in, Python roots grown into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**; today I'm the team's go-to — mentoring a junior and leveling up colleagues, mostly through pairing and code review rather than speeches.
 - 🦕 **React since 0.16.8** — class & functional components, back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
 - 🧠 **TypeScript maximalist** — strict typings done for love: generics, union & conditional types, inference gymnastics — and no \`as\` escape hatches.
 - 🔧 **Rewrites don't scare me** — earned my mid-level stripes migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in ~6 weeks — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
@@ -33,6 +33,8 @@
 > **Write CLI apps with your web framework — React, Vue, Angular, Solid, or Svelte.**
 
 A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Grid layouts powered by native [Taffy](https://github.com/DioxusLabs/taffy) bindings, and CSS-like styling. One rendering core, five front-end adapters.
+
+**Why it exists:** React has renderers for *everything* — native, terminal, 3D, PDF — while other frameworks have almost none, so teams stay on React just to render somewhere new. That's a hole in the ecosystem. wolf-tui closes it: one core, five adapters, so Vue / Angular / Solid / Svelte can render a TUI too. React is great — but quietly locking the whole field to a single runtime is how it becomes the next jQuery.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS"/>
