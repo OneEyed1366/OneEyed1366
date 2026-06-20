@@ -16,7 +16,8 @@
 
 ### 🧩 What I'm into
 
-- 🧰 **Team's tech expert** — ~9 years in, Python roots grown into JS/TS full-stack. As a mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**; today I'm the team's go-to - mentoring a junior, pairing and reviewing over speeches, and running our **tech-retro**: I gather debatable code practices, weigh the trade-offs, and turn the team's discussion into pinned, shared best-practices.
+- 🧰 **Full-stack, ~9 years in** — Python roots grown into JS/TS full-stack. As a mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**.
+- 🧭 **Team's tech expert** — today I'm the team's go-to: mentoring a junior, pairing and reviewing over speeches, and running our **tech-retro** — I gather debatable code practices, weigh the trade-offs, and turn the team's discussion into pinned, shared best-practices.
 - 🦕 **React since 0.16.8** — class & functional components, back when IE8 support, `React.createClass` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration.
 - 🧠 **Strict typing, no dogma** — strict where it pays off, not strictness for its own sake (I won't burn hours gold-plating types nobody reads). Generics, union & conditional types, inference gymnastics — and `as` only as a last resort.
 - 🔧 **Legacy don't scare me** — earned my mid-level stripes migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in ~6 weeks — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
