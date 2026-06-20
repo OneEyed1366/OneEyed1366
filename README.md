@@ -34,7 +34,7 @@
 
 A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Grid layouts powered by native [Taffy](https://github.com/DioxusLabs/taffy) bindings, and CSS-like styling. One rendering core, five front-end adapters.
 
-**Why it exists:** React has renderers for *everything* — native, terminal, 3D, PDF — while other frameworks have almost none, so teams stay on React just to render somewhere new. That's a hole in the ecosystem. wolf-tui closes it: one core, five adapters, so Vue / Angular / Solid / Svelte can render a TUI too. React is great — but quietly locking the whole field to a single runtime is how it becomes the next jQuery.
+**Why it exists:** React has renderers for *everything* — native, terminal, 3D, PDF — while other frameworks have almost none, so teams stay on React just to render somewhere new. That's a hole in the ecosystem. wolf-tui tries to close it on one side, so Vue / Angular / Solid / Svelte can render a TUI too. React is great — but quietly locking the whole field to a single runtime is how it becomes the next jQuery.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TS"/>
