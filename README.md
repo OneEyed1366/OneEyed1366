@@ -16,7 +16,7 @@
 
 ### 🧩 What I'm into
 
-- 🧰 **Full-stack, ~9 years in** — started as a Python dev, grew into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**.
+- 🧰 **Full-stack lead &amp; team's tech expert** — ~9 years in, Python roots grown into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**; today I'm the team's go-to — mentoring a junior, teaching colleagues regularly, and the person people come to when they're stuck.
 - 🦕 **React since 0.16.8** — class & functional components, back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
 - 🧠 **TypeScript maximalist** — strict typings done for love: generics, union & conditional types, inference gymnastics — and no \`as\` escape hatches.
 - 🔧 **Rewrites don't scare me** — leveled up to mid migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in 1.2 months — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
