@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Andrey 👋</h1>
 
 <p align="center">
-  <em><strong>Full-Stack Senior Software Engineer</strong> — five years backend-heavy (TS / Python), now shipping frontend.<br/>Animal lover running on unlimited energy and far too much coffee ☕</em>
+  <em><strong>Full-Stack Senior Software Engineer</strong> — ~9 years in, Python roots grown into JS/TS full-stack.<br/>Animal lover running on unlimited energy and far too much coffee ☕</em>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Experience-9%2B%20years-6E56CF?style=for-the-badge" alt="9+ years"/>
   <img src="https://img.shields.io/badge/Full--Stack-Senior-6E56CF?style=for-the-badge" alt="Full-Stack Senior"/>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/>
 </p>
 
@@ -16,9 +16,9 @@
 
 ### 🧩 What I'm into
 
-- 🧰 **Full-stack, backend-leaning** — five years primarily backend (Nest.js · Django · FastAPI · Express, GraphQL & REST), now shipping frontend.
+- 🧰 **Full-stack, ~9 years in** — started as a Python dev, grew into JS/TS full-stack. As a Middle+ mini-teamlead I owned **4 React micro-frontends, a React Native app, and a Nest.js backend**.
 - 🦕 **React since 0.16.8** — back when IE8 support, \`React.createClass\` and mixins were a thing. Survived jQuery and the Python 2 → 3 migration. I've shipped through the eras.
-- 🔧 **Rewrites don't scare me** — leveled up to mid solo-migrating a legacy React app (self-written Gulp + webpack 2 SSR → Next.js + webpack 5) in 2.5 months. I'm stubborn; legacy loses.
+- 🔧 **Rewrites don't scare me** — leveled up to mid migrating a legacy Gulp + webpack 2 SSR app to Next.js + webpack 5 (2.5 months, solo). Later rewrote an untyped, untested pure-JS Express backend into typed **Nest.js** in 1.2 months — because untyped, untested code genuinely pisses me off. Stubborn; legacy loses.
 - 🗄️ **Data-heavy** — MongoDB · PostgreSQL · ClickHouse; these days a lot of SQL templated with GoTemplate (and a bit of backend **Go**).
 - 🐺 **Cross-framework tooling** — I like building things that work *everywhere*, not just in one framework's garden.
 - 🖥️ **Neovim to the bone** — toured VSCode, WebStorm/PyCharm, Zed… and keep crawling back. tmux + Neovim is home.
@@ -91,6 +91,7 @@ A framework-agnostic **Terminal UI library**: JSX/template syntax, Flexbox & Gri
   <img src="https://img.shields.io/badge/Vue%203-42b883?style=flat-square&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black"/>
